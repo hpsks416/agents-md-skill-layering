@@ -2,10 +2,11 @@
 
 把「每次都要自动触发」的内容放进全局 AGENTS.md，把「需要时才展开的流程」留在 skill，两层不重复。
 
-## 适用对象
+## 环境依赖
 
-- DeepSeek Harness（DSH）用户：一个可由 AI agent 按需自动加载的 skill，克隆即用、无需构建。
-- 设计 agent 规则体系（哪些进全局 AGENTS.md、哪些进 skill）的人
+- 操作系统：Windows
+- 运行时：无（纯指令型 skill，由 agent 直接执行）
+- 第三方软件：无（仅依赖系统自带的 PowerShell / 标准库）
 
 ## 目录结构
 
