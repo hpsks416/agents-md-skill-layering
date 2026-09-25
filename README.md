@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/agents-md-skill-layering/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # agents-md-skill-layering
 
 把「每次都要自动触发」的内容放进全局 AGENTS.md，把「需要时才展开的流程」留在 skill，两层不重复。
@@ -25,3 +27,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
